@@ -1,7 +1,0 @@
-*.bin
-*.elf
-*.hex
-*.map
-
-.vscode/
-build/
